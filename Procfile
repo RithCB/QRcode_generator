@@ -1,0 +1,1 @@
+web: gunicorn QRcode_Gen.wsgi
